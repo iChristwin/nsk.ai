@@ -11808,7 +11808,7 @@ iframe {
 }
 
 img {
-    /*! max-width: 100%; */
+    max-width: 100%;
     /*! max-height: 100%; */
     /*! width: fit-content !important; */
     display: block;
@@ -13397,7 +13397,7 @@ img.img-shadow,
     background-repeat: no-repeat;
     background-color: #fff;
     background-size: cover;
-    padding: 120px 0 100px;
+    padding: 120px 0 0;
 }
 
 .parallax {
